@@ -46,9 +46,10 @@ Isso abrirá a aplicação no navegador, permitindo ajustar a carga de requisiç
 segundo e visualizar o tempo de resposta previsto, a região crítica e a assíntota do
 modelo.
 
-## Publicação (opcional)
+## RMs
+-- Henrique S. S. Nascimento - rm569137
+--Nicolas Moreira - rm571510
+--Andrey Luigi - rm569575
+--Lucas Trevisan - rm569731
 
-Caso o grupo publique a aplicação no Streamlit Community Cloud, informar o link aqui e
-também no início do `checkpoint.ipynb`.
 
-**Link da aplicação publicada:** _(preencher, se aplicável)_
