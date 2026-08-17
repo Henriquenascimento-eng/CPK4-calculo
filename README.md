@@ -35,7 +35,7 @@ notebook gera automaticamente o arquivo `app.py` na mesma pasta.
 ## Como executar a aplicação Streamlit
 
 ```bash
-streamlit run app.py
+py -m pip install streamlit
 ```
 
 Isso abrirá a aplicação no navegador, permitindo ajustar a carga de requisições por
