@@ -48,8 +48,11 @@ modelo.
 
 ## RMs
 -- Henrique S. S. Nascimento - rm569137
+
 --Nicolas Moreira - rm571510
+
 --Andrey Luigi - rm569575
+
 --Lucas Trevisan - rm569731
 
 
